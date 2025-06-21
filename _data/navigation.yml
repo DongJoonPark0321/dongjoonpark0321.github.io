@@ -18,7 +18,7 @@ main:
     url: /teaching/    
     
   - title: "CV"
-    url: /files/Park_DongJoon_CV_June_2025.pdf/
+    url: /files/Park_DongJoon_CV_June_2025.pdf
     external: true
     
   # - title: "CV"
