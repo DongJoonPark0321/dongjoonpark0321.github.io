@@ -20,7 +20,8 @@ Park, Dong Joon. 2025. “Do epistemic similarity and experiential familiarity e
 
 Kim, Soohan, Dong Joon Park & Soyun Park. 2019. “Gender Inequality and Women's Role in Interdisciplinary Research.” The Women’s Studies 102(3): 5-36. (in Korean)
 
-## Working Papers (*equal contribution)
+## Working Papers 
+(*equal contribution)
 
 Changes for Gender Diversity
 Park, Dong Joon & Louise Roth. “Transformative Institutional Change: Gender Diversity among Partners in South Korean Law Firms after Legal Reforms.” [resubmission]
