@@ -9,7 +9,7 @@
 
 main:
   - title: "Home"
-    url: /https://dongjoonpark0321.github.io/
+    url: "/https://dongjoonpark0321.github.io"
     
   - title: "Research"
     url: /publications/
