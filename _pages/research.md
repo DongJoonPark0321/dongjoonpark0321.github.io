@@ -23,13 +23,13 @@ Kim, Soohan, Dong Joon Park & Soyun Park. 2019. “Gender Inequality and Women's
 ## Working Papers 
 (*equal contribution)
 
-Changes for Gender Diversity
+# Changes for Gender Diversity
 Park, Dong Joon & Louise Roth. “Transformative Institutional Change: Gender Diversity among Partners in South Korean Law Firms after Legal Reforms.” [resubmission]
 
 Park, Dong Joon & Erin Leahey. “Preparing Women Interdisciplinary Scientists: How University's Ascendant Priorities Matter.” [in progress]
 
-Interdisciplinarity in Higher Education 
+# Interdisciplinarity in Higher Education 
 Park, Dong Joon. “Crossing Disciplinary Boundaries: Interdisciplinary Researchers Find Job Satisfaction Outside Their Degree Field.” [under review] 
 
-International Doctorate Recipients’ Career 
+# International Doctorate Recipients’ Career 
 Park, Dong Joon & Dylan Simburger*. “Investigating South Asian Exceptionalism with Place of Education and Stage of Career.” [under review]
