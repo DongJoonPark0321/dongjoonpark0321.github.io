@@ -11,7 +11,7 @@ Dong Joon Park strives to create an inclusive and engaging classroom that encour
 
 ## Courses Taught
 
-Social Inequality (University of Arizona Fall 2022, online course)
+Social Inequality (University of Arizona, Fall 2022, online course)
 -	Developed and taught an undergraduate course exploring class, race, gender, and labor market inequalities using multiple resources.
 
 Introduction to Sociology (University of Arizona, Summer 2020-2022, online course)
