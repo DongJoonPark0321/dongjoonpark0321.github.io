@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/DongJoonPark_photo.png"
+  avatar           : https://dongjoonpark0321.github.io/images/DongJoonPark_photo.png
   name             : "Dong Joon Park"
   pronouns         : "he/his/him"  
   bio              : # "Short biography for the left-hand sidebar"
