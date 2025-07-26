@@ -20,6 +20,7 @@ Introduction to Sociology (University of Arizona, Summer 2020-2022, online cours
 ## Teaching Interests
 - Sociology of Education
 - Gender and Work
+- Race and Ethnicity
 - Social Stratification
 - Quantitative Methods
 
