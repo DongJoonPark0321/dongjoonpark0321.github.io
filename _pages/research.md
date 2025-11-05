@@ -9,10 +9,11 @@ author_profile: true
 
 My research examines how individuals navigate changes in higher education and how these experiences shape career trajectories, rewards, and mobility for doctorate recipients. I focus on topics such as:
 
+- Gender disparities in legal professions following educational reform in South Korea.
 - The effects of interdisciplinary research (IDR) on job satisfaction and education–occupation alignment.
 - The role of university structures and faculty diversity in shaping graduate training.
 - International doctorate recipients’ career decisions across countries and sectors.
-- Gender disparities in legal professions following educational reform in South Korea.
+- Postdoctoral researchers' work activity and their career.
 
 ## Publications
 
@@ -24,7 +25,7 @@ Kim, Soohan, Dong Joon Park & Soyun Park. 2019. “Gender Inequality and Women's
 (*equal contribution)
 
 ### Changes for Gender Diversity
-Park, Dong Joon, and Louise Roth. “Transformative Institutional Change: Gender Diversity among Partners in South Korean Law Firms after Legal Reforms.” [resubmission]
+Park, Dong Joon, and Louise Roth. “Transformative Institutional Change: Gender Diversity among Partners in South Korean Law Firms after Legal Reforms.” [minor revision]
 
 Park, Dong Joon, and Erin Leahey. “Preparing Women Interdisciplinary Scientists: How University's Ascendant Priorities Matter.” [under review] 
 
@@ -35,3 +36,6 @@ Park, Dong Joon. “Crossing Disciplinary Boundaries: Interdisciplinary Research
 Park, Dong Joon, and Dylan Simburger*. “Investigating South Asian Exceptionalism with Place of Education and Stage of Career.” [under review]
 
 Park, Dong Joon, and Yiwen Zeng*. “Who Gets to Use Their Expertise? Gender, Mobility, and Research Careers for U.S.-trained Asian Doctorates” [in progress]
+
+### Postdoctoral Researchers’ Career 
+Sacco, Timothy, Dong Joon Park, and Erin Leahey. “From Postdoc to Professor: How Work Activity and Gender Shape Academic Career Outcomes” [in progress]
