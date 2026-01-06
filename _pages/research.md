@@ -35,7 +35,7 @@ Park, Dong Joon. “Crossing Disciplinary Boundaries: Interdisciplinary Research
 ### International Doctorate Recipients’ Career 
 Park, Dong Joon, and Dylan Simburger*. “Investigating South Asian Exceptionalism with Place of Education and Stage of Career.” [under review]
 
-Park, Dong Joon, and Yiwen Zeng*. “Who Gets to Use Their Expertise? Gender, Mobility, and Research Careers for U.S.-trained Asian Doctorates” [in progress]
+Park, Dong Joon. “Who Gets to Keep Their Research Careers? Gender, Mobility, and Research Careers for U.S.-trained Asian Doctorates” [in progress]
 
 ### Postdoctoral Researchers’ Career 
 Sacco, Timothy, Dong Joon Park, and Erin Leahey. “From Postdoc to Professor: How Work Activity and Gender Shape Academic Career Outcomes” [in progress]
