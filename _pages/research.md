@@ -19,21 +19,22 @@ My research examines how individuals navigate changes in higher education and ho
 
 Park, Dong Joon. 2025. “Do epistemic similarity and experiential familiarity enhance the productivity of early-career interdisciplinary researchers?” _Scientometrics_ 130, 2829–2859. DOI: 10.1007/s11192-025-05301-6
 
+Park, Dong Joon, and Louise Roth. “Transformative Institutional Change: Gender Diversity among Partners in South Korean Law Firms after Legal Reforms.” _Asian Journal of Law and Society_, forthcoming.
+
 Kim, Soohan, Dong Joon Park & Soyun Park. 2019. “Gender Inequality and Women's Role in Interdisciplinary Research.” _The Women’s Studies_ 102(3): 5-36. (in Korean)
 
 ## Working Papers 
 (*equal contribution)
 
 ### Changes for Gender Diversity
-Park, Dong Joon, and Louise Roth. “Transformative Institutional Change: Gender Diversity among Partners in South Korean Law Firms after Legal Reforms.” [minor revision]
 
-Park, Dong Joon, and Erin Leahey. “Preparing Women Interdisciplinary Scientists: How University's Ascendant Priorities Matter.” [under review] 
+Park, Dong Joon, and Erin Leahey. “Preparing Women Interdisciplinary Scientists: How University's Ascendant Priorities Matter.” [in progress] 
 
 ### Interdisciplinarity in Higher Education 
-Park, Dong Joon. “Crossing Disciplinary Boundaries: Interdisciplinary Researchers Find Job Satisfaction Outside Their Degree Field.” [under review] 
+Park, Dong Joon. “Crossing Disciplinary Boundaries: Interdisciplinary Dissertators, Field-of-Study Mismatch, and Job Satisfaction.” [under review] 
 
 ### International Doctorate Recipients’ Career 
-Park, Dong Joon, and Dylan Simburger*. “Investigating South Asian Exceptionalism with Place of Education and Stage of Career.” [under review]
+Park, Dong Joon, and Dylan Simburger*. “Investigating South Asian Exceptionalism with Place of Education and Stage of Career.” [in progress]
 
 Park, Dong Joon. “Who Gets to Keep Their Research Careers? Gender, Mobility, and Research Careers for U.S.-trained Asian Doctorates” [in progress]
 
